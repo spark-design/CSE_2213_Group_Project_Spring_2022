@@ -29,4 +29,5 @@ for (ISBN, Title, Author, Year, Genre) in cur:
     print(f"ISBN: {Title}, Title: {Title}, Author: {Author}, Year: {Year}, Genre: {Genre}")
 
 # Close Connection
-conn.close()# CSE_2213_Group_Project_Spring_2022
+conn.close()
+# CSE_2213_Group_Project_SPring_2022
