@@ -2,6 +2,8 @@
 import mariadb
 import sys
 
+# Change
+
 # Connect to MriaDB Platform
 try:
     conn = mariadb.connect(
@@ -30,4 +32,5 @@ for (ISBN, Title, Author, Year, Genre) in cur:
 
 # Close Connection
 conn.close()
-# CSE_2213_Group_Project_SPring_2022
+# CSE_2213_Group_Project_Spring_2022
+# CSE_2213_Group_Project_Spring_2022
