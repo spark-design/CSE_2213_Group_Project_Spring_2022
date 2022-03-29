@@ -1,0 +1,38 @@
+# Case 01
+John
+Johnson
+jj2
+ecom2468101
+8669852614
+200 W Main St
+Abington
+MA
+98102
+6703444444444449
+19
+
+# Case 02
+1
+1
+jj2
+1
+1
+1
+1
+1
+1
+1
+1
+
+# Case 03
+John
+Johnson
+jj20
+ecom2468101
+8669852614
+200 W Main St
+Abington
+MA
+98102
+6703444444444449
+19
