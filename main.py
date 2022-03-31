@@ -1,7 +1,7 @@
 # Module imports
 from re import S
 import string
-import mariadb
+import mariadb  #In your command line interface of choice, run the following to run the code: pip install mariadb
 import sys
 from user import *
 
