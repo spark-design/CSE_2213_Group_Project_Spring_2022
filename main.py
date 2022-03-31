@@ -31,6 +31,7 @@ cur = conn.cursor()
 # Defines an exit function
 def EXIT():
     print("\nThank you for shopping! Have a nice day!")
+    cur.close()
     conn.close()
     sys.exit(0)
 
